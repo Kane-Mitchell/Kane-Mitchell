@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="0r1kvPS9kdZ65ugu2aDP">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="My PC (Windows)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="8" width="182" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Virtual Box" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="72" y="129" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Ubuntu" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="8" y="296" width="82" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Kali Linux" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="140" y="296" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Virtualization software" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="VM1" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="49" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="VM2" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
