@@ -3,15 +3,15 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> File permissions in Linux </b>
-  - [Practicing changing permissions in Linux](https://docs.google.com/document/d/1h-LV9HGqNNDGWzhHPSjFhLL9Pno9L3eh6FjMbENPnps/edit)
+  - [Changing permissions in Linux](https://docs.google.com/document/d/1h-LV9HGqNNDGWzhHPSjFhLL9Pno9L3eh6FjMbENPnps/edit)
 - <b> Apply filters to SQL queries (SQL)</b>
   - [SQL filters](https://docs.google.com/document/d/1fLROQN2oLAcrKUTM84vjbgP67CjO93sRrvD97zbWA7Y/edit#heading=h.adnh333husy) <b><i>
 - <b> Incident report analysis </b>
   - [Implementing the NIST CSF](https://docs.google.com/document/d/1Kt4x7NUsCUwZO-m1-l4Br9OUGAz4ZNELTW39FN6YVjc/edit)
   
-- <b>C# (.NET Desktop Applications)</b>
  
 - <b>Python</b>
+  - [Algorithm for file updates in Python](https://docs.google.com/document/d/1JYqI0dWwA0NfKJv0ha1B4QD7NndpCsKTrbbSS6P5CGw/edit#heading=h.dooa9fyvnog2)
   
 
 
