@@ -2,6 +2,9 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> Network Security </b>
+  - [Virtual network setup and basic network attacks and defence](https://docs.google.com/document/d/1mlTcTMGEVl1Ri6G-dk5IuSn0WJMadCr2yat3H15ehNE/edit)
+
 - <b> File permissions in Linux </b>
   - [Changing permissions in Linux](https://docs.google.com/document/d/1h-LV9HGqNNDGWzhHPSjFhLL9Pno9L3eh6FjMbENPnps/edit)
 - <b> Apply filters to SQL queries (SQL)</b>
