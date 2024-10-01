@@ -4,6 +4,8 @@
 
 - <b> Network Security </b>
   - [Virtual network setup and basic network attacks and defence](https://docs.google.com/document/d/1mlTcTMGEVl1Ri6G-dk5IuSn0WJMadCr2yat3H15ehNE/edit)
+  - [Build and configure a firewall](https://docs.google.com/document/d/1x8nKWA98l59m2qikvQ3kyFWVSANOktURL0Wx6qUfFtY/edit)
+
 
 - <b> File permissions in Linux </b>
   - [Changing permissions in Linux](https://docs.google.com/document/d/1h-LV9HGqNNDGWzhHPSjFhLL9Pno9L3eh6FjMbENPnps/edit)
