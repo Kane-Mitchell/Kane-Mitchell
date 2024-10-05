@@ -5,6 +5,7 @@
 - <b> Network Security </b>
   - [Virtual network setup and basic network attacks and defence](https://docs.google.com/document/d/1mlTcTMGEVl1Ri6G-dk5IuSn0WJMadCr2yat3H15ehNE/edit)
   - [Build and configure a firewall](https://docs.google.com/document/d/1x8nKWA98l59m2qikvQ3kyFWVSANOktURL0Wx6qUfFtY/edit)
+  - [Implementing an IDS/IPS with Snort](https://docs.google.com/document/d/1zfu7ygC9eyfv7yrODKbiwBh_5RcGHofwEfSWi8awYWk/edit)
 
 
 - <b> File permissions in Linux </b>
