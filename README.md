@@ -6,6 +6,8 @@
   - [Build and configure a firewall](https://docs.google.com/document/d/1x8nKWA98l59m2qikvQ3kyFWVSANOktURL0Wx6qUfFtY/edit)
   - [Implementing an IDS/IPS with Snort](https://docs.google.com/document/d/1zfu7ygC9eyfv7yrODKbiwBh_5RcGHofwEfSWi8awYWk/edit)
 
+- <b> Penetration Testing </b>
+   - [Vulnerability Assessment on a network ](https://docs.google.com/document/d/1vjpH9_RRhJ5WIuuynL27gd5Udc_5OBse5Y-ENHKubRs/edit?tab=t.0)
 
 - <b> File permissions in Linux </b>
   - [Changing permissions in Linux](https://docs.google.com/document/d/1h-LV9HGqNNDGWzhHPSjFhLL9Pno9L3eh6FjMbENPnps/edit)
