@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kane! <br/><a , <a href="https://www.linkedin.com/in/kane-mitchell-27166332a/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Kane! <br/><a , <a href="https://www.linkedin.com/in/kane-mitchell-27166332a/">Aspiring Cybersecurity Professional</a>,
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
